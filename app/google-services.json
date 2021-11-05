@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "514754522216",
+    "firebase_url": "https://e-financial-controller-1d65c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-financial-controller-1d65c",
+    "storage_bucket": "e-financial-controller-1d65c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514754522216:android:1d04cbd585d51fd8835fdd",
+        "android_client_info": {
+          "package_name": "com.example.e_financial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514754522216-c9bo6e9v0k85n8785vss6f31m18ecsig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-ClurJ6PcgpNH_P3wHedd9A3W0tGstM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514754522216-c9bo6e9v0k85n8785vss6f31m18ecsig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514754522216:android:154b05abf94b6b67835fdd",
+        "android_client_info": {
+          "package_name": "com.example.e_financialcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514754522216-7s9hc2rhbd3e4rqp5he0qgp7if7pahn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_financialcontroller",
+            "certificate_hash": "7b66b082b8df4ce110659bd417cb6d1737955a4a"
+          }
+        },
+        {
+          "client_id": "514754522216-c9bo6e9v0k85n8785vss6f31m18ecsig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-ClurJ6PcgpNH_P3wHedd9A3W0tGstM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514754522216-c9bo6e9v0k85n8785vss6f31m18ecsig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

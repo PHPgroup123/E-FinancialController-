@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Financial</string>
+    <string name="title_home">Home</string>
+    <string name="title_Scan">Scan</string>
+    <string name="title_expenses">Expenses</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="project_title">E-Financial Controller</string>
+    <string name="logout">logout</string>
+</resources>
